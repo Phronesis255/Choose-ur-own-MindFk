@@ -1,0 +1,10 @@
+﻿59
+“Come, follow me,” he says, motioning toward the
+hallway he just appeared from.
+You look at him and then at the door to the control room,
+it is just a few meters away.
+He sees you looking at it, “Don’t bother, the control
+room has been completely compromised.”
+Follow Farnsworth into the hidden passage, turn to page 92.
+Go to the Control Room to regain control of Complex, turn
+to page 52.

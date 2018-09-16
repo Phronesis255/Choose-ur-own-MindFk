@@ -1,0 +1,15 @@
+﻿20
+You put the information in the computer and move on to
+the next form. You pause to look at the figures on the form
+and try to make some sense of them. Try as you might, in all
+the years you have worked here you have never figured out
+what exactly these forms are for.
+You shrug and enter the information into the computer.
+As you type, you notice your eyelids are getting heavy.
+The monotony of the work is starting to get to you and it is
+still early in the day. You could use some coffee for a pick up
+but you don’t want to drink too much coffee. You’ve already
+had two cups today and if you drink too much you’ll be up
+all night.
+Wait to get coffee later, turn to page 161.
+Go get some coffee, turn to page 116.
